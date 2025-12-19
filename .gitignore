@@ -1,7 +1,9 @@
 *.mp4
 *.avi
 *.mkv
-*.txt
-!requirements.txt
 *.pt
+datos_telemetria.json
+*.log
 __pycache__/
+.venv/
+.txt
